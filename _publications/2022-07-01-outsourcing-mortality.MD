@@ -1,5 +1,5 @@
 ---
-title: "Goodair, B., & Reeves, A. (2022). Outsourcing health-care services to the private sector and treatable mortality rates in england, 2013–20: An observational study of nhs privatisation."
+title: "[1] Goodair, B., & Reeves, A. (2022). Outsourcing health-care services to the private sector and treatable mortality rates in england, 2013–20: An observational study of nhs privatisation."
 collection: publications
 permalink: /publication/2022-07-01-outsourcing-mortality
 excerpt: 'This paper assesses the impact of NHS privatisation on healthcare quality. We find privatisation corresponds with higher mortality rates. <br>

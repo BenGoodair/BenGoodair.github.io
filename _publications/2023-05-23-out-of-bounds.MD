@@ -1,5 +1,5 @@
 ---
-title: "Bach-Mortensen, A. M., Goodair, B., & Barlow, J. (2023). For-profit outsourcing and its effects on placement stability and locality for children in care in england, 2011–2022: A longitudinal ecological analysis."
+title: "[3] Bach-Mortensen, A. M., Goodair, B., & Barlow, J. (2023). For-profit outsourcing and its effects on placement stability and locality for children in care in england, 2011–2022: A longitudinal ecological analysis."
 collection: publications
 permalink: /publication/2023-05-23-out-of-bounds
 excerpt: 'This paper assess the impact of outsourcing on the quality of placements for children in care. We find more outsourcing corresponds with more children being placed far from home.  <br> <br>
