@@ -17,7 +17,7 @@ I research how health systems, social care services, and social policy affect po
 
 I teach on multiple courses in the areas of social policy, quantitative methods and policy evaluation.
 
-I am a postdoctoral researcher in the Department of Social Policy and Intervention at the University of Oxford and am finishing up a PhD.
+I am a postdoctoral researcher in the Department of Social Policy and Intervention at the University of Oxford currently working on measuring the impacts of social care outsourcing in England.
 
 My research interests are:
 
