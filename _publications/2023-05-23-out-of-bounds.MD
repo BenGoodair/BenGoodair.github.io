@@ -1,8 +1,8 @@
 ---
-title: "For-profit outsourcing and its effects on placement stability and locality for children in care in england, 2011–2022: A longitudinal ecological analysis."
+title: "[3] For-profit outsourcing and its effects on placement stability and locality for children in care in england, 2011–2022: A longitudinal ecological analysis."
 collection: publications
 permalink: /publication/2023-05-23-out-of-bounds
-excerpt: 
+excerpt: ''
 date: 2023-05-23
 venue: 'Child Abuse and Neglect, with Anders Bach-Mortensen and Jane Barlow'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0145213423002260?via%3Dihub'
