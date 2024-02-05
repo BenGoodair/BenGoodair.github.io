@@ -2,7 +2,7 @@
 title: "[1] Outsourcing health-care services to the private sector and treatable mortality rates in england, 2013–20: An observational study of nhs privatisation."
 collection: publications
 permalink: /publication/2022-07-01-outsourcing-mortality
-excerpt: 
+excerpt: ''
 date: 2022-07-01
 venue: 'The Lancet Public Health, with Aaron Reeves'
 paperurl: 'https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(22)00133-5/fulltext'
