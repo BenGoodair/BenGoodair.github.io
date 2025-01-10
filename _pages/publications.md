@@ -14,12 +14,6 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>Works in progress</h2>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'conference' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
 
 <h2>Reports, commentaries and blogs</h2>
 {% for post in site.publications reversed %}
