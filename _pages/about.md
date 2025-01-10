@@ -17,7 +17,7 @@ I research how health systems, social care services, and social policy affect po
 
 I teach on multiple courses in the areas of social policy, quantitative methods and policy evaluation.
 
-I am a senior postdoctoral researcher at the Blavatnik School of Government at the University of Oxford currently working on measuring the impacts of social care outsourcing in England.
+I am a postdoctoral researcher at the Centre for the Analysis of Social Exclusion at LSE, currently working on measuring the impacts of NHS and social care outsourcing in England.
 
 My research interests are:
 
@@ -29,4 +29,4 @@ My research interests are:
 
 On this website you can find my CV, publications and presentations.
 
-Please feel to reach out to me via [email](mailto:benjamin.goodair@bsg.ox.ac.uk) or [twitter](https://twitter.com/BenGoodair) :)
+Please feel to reach out to me via [email](mailto:benjamin.goodair@bsg.ox.ac.uk) or [twitter](https://twitter.com/BenGoodair) or [Bluesky](https://bsky.app/profile/bengoodair.bsky.social) :)
