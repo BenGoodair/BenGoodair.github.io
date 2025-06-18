@@ -9,16 +9,9 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>2023</h2>
+<h2>Annual teaching work</h2>
 {% for post in site.teaching reversed %}
-  {% if post.pubtype == '2023' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-<h2>2022</h2>
-{% for post in site.teaching reversed %}
-  {% if post.pubtype == '2022' %}
+  {% if post.pubtype == 'Annual teaching' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
