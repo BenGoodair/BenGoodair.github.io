@@ -1,9 +1,9 @@
 ---
 title: "[15] Commercialisation and care sufficiency: the privatisation of children's homes in England"
 collection: publications
-permalink: /publication/2025-02-03-commercial
+permalink: /publication/2026-02-03-commercial
 excerpt: ''
-date: 2025-02-28
+date: 2026-02-28
 venue: 'Lancet Public Health, with François Schoenberger and Anders Bach-Mortensen'
 paperurl: 'https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(25)00279-8/fulltext'
 pubtype: 'journal'
